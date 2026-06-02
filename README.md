@@ -9,7 +9,7 @@ Capstone Web Design Project
 
 ## Live Demo
 
-Add deployment link here
+Deployment link is coming soon
 
 ## Author
 
